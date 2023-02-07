@@ -21,7 +21,10 @@ To setup :
 - camera (Sending 10 videos)
 - sound (Sending 10 sound saves)
 - keylog (Sending a key log)
+
 ON controlkeyboard CHANNEL : Type a text and it will be written
+
 ON controlmouse CHANNEL : Type a couple of values (ex : 100,45) and the program will click at the x and y coordonees on the screen)
+
 Improve this program ! Don't do malicious programs with this.
 
